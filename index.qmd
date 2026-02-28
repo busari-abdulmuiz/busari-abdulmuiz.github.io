@@ -1,0 +1,13 @@
+---
+title: "About Me"
+---
+
+## Welcome!
+I am a Data Science student with a background in Computer Science. 
+
+### My Mission
+I am focused on using data to optimize **logistics and supply chain systems in Nigeria**.
+
+### Tech Stack
+- **Languages:** Python (Pandas, NumPy)
+- **Modeling:** ARIMA, K-means Clustering

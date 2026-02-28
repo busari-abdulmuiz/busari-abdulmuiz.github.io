@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Busari Abdulmuiz Olakunle"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Data Projects
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+project:
+  type: website
+  output-dir: .  # This tells Quarto to put the website files in the main folder
